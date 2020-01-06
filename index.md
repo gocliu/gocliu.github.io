@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This is a test. 
+
+Actually don't know what to do yet.
 
 You can use the [editor on GitHub](https://github.com/gocliu/gocliu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
